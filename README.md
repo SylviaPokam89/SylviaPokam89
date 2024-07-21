@@ -2,7 +2,7 @@
 
 ### À propos de moi
 
-Je suis Sylvia, une passionnée de la data en reconversion professionnelle. Après plusieurs années dans le domaine de la science des matériaux, j'ai décidé de suivre ma passion pour les données et la science, et j'ai depuis acquis une solide expérience en analyse de données, en apprentissage automatique et en visualisation de données.
+Je suis Sylvia, une passionnée de la data en reconversion professionnelle. Après plusieurs années dans le domaine de la science des matériaux, j'ai décidé de suivre ma passion pour les données et la science, et j'ai depuis acquis de solides compétences en analyse de données, en apprentissage automatique et en visualisation de données.
 
 ### Compétences techniques
 - Langages de programmation : Python, SQL
