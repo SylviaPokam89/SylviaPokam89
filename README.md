@@ -1,5 +1,6 @@
-## Hi there 👋
+## Bienvenue sur mon profil GitHub! 👋
 
+### À propos de moi
 <!--
 **SylviaPokam89/SylviaPokam89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
