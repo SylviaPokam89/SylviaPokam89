@@ -6,8 +6,8 @@ Je suis une data analyst avec une forte expérience dans l'analyse de données e
 
 Mon expertise inclut l'utilisation de Python, SQL, et des outils de visualisation comme Power BI, Excel et Matplotlib. Je suis passionnée par l'exploration des données pour en extraire des insights utiles et j'aime résoudre des problèmes complexes en utilisant des approches analytiques et statistiques.
 
-## Mon objectif
-Aider les entreprises dans les prises de décisions en transformant les données brutes en insights utiles.
+
+
 
 ### Compétences techniques
 - Langages de programmation : Python, SQL
