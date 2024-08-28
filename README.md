@@ -2,7 +2,12 @@
 
 ### À propos de moi
 
-Je suis Sylvia, une passionnée de la data en reconversion professionnelle. Après plusieurs années dans le domaine de la science des matériaux, j'ai décidé de suivre ma passion pour les données et la science, et j'ai depuis acquis de solides compétences en analyse de données, en apprentissage automatique et en visualisation de données.
+Je suis une data analyst avec une forte expérience dans l'analyse de données et titulaire d’un diplôme RNCP 7 équivalent Master 2 délivré par les Mines ParisTech et Datascientest. J'ai travaillé sur de nombreux projets impliquant la manipulation de grandes quantités de données, la création de visualisations interactives pour aider à la prise de décisions éclairées et le développement de modèles prédictifs.
+
+Mon expertise inclut l'utilisation de Python, SQL, et des outils de visualisation comme Power BI, Excel et Matplotlib. Je suis passionnée par l'exploration des données pour en extraire des insights utiles et j'aime résoudre des problèmes complexes en utilisant des approches analytiques et statistiques.
+
+## Mon objectif
+Aider les entreprises dans les prises de décisions en transformant les données brutes en insights utiles.
 
 ### Compétences techniques
 - Langages de programmation : Python, SQL
